@@ -1,5 +1,3 @@
-<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/1618dd4f-970f-484a-85c6-e807d9184bb0" /># Hi, I'm Woro Asnita !
-
 ### Aspiring Data Analyst | Learning Python & SQL 
 
 I am a Management graduate currently transitioning into the world of Data Analytics. I have a strong interest in transforming raw data into meaningful insights.
