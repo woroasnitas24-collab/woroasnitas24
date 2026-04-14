@@ -1,3 +1,5 @@
+Hi, I'm Woro Asnita'!
+
 ### Aspiring Data Analyst | Learning Python & SQL 
 
 I am a Management graduate currently transitioning into the world of Data Analytics. I have a strong interest in transforming raw data into meaningful insights.
