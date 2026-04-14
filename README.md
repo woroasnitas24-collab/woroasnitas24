@@ -6,7 +6,7 @@ I am a Management graduate currently transitioning into the world of Data Analyt
 
 - Currently Learning :** Python for Data Science, SQL, and Data Visualization.
 - **Other Interest :** UI/UX Design (Figma & Spline)
-- **Goals:** Building a portofolio of data projects and seeking opportunities in Data Analysis.
+- **Goals:** Building a portfolio of data projects and seeking opportunities in Data Analysis.
 - **How to reach me :**https://www.instagram.com/woroasnitaa/
 
 - ### Tools & Technologies
